@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-   <img src="" alt="Python">
+   <alt="Python">
 </p>
 
 ## About
