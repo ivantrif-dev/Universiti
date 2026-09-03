@@ -16,5 +16,6 @@ Home Work on Python
 
 <p align = "center">
 I'm glad you read this!!!
- <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM0cXdpaW4yZWJwNHk2dHB1bWh5OGtjeTcyaG1wdnliZ2RyMDhieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1236TCtX5dsGEo/giphy.gif" width="726">
+</p>
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnM0cXdpaW4yZWJwNHk2dHB1bWh5OGtjeTcyaG1wdnliZ2RyMDhieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1236TCtX5dsGEo/giphy.gif" width="256">
 
